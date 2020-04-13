@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e64f215d2d48f5c946e545498df1901",
+    "revision": "77d0be0304e13f44e46d3951ea3442b3",
     "url": "/BlogPlatzi-deploy/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BlogPlatzi-deploy/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "15bdc13dd19fe4c9e834",
-    "url": "/BlogPlatzi-deploy/static/css/main.c0d32bc8.chunk.css"
+    "revision": "b93f9fbeb7d73c4c2419",
+    "url": "/BlogPlatzi-deploy/static/css/main.110d1963.chunk.css"
   },
   {
     "revision": "f809af4a9c1e7db81ab3",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BlogPlatzi-deploy/static/js/2.ce53b978.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15bdc13dd19fe4c9e834",
-    "url": "/BlogPlatzi-deploy/static/js/main.7831c8d1.chunk.js"
+    "revision": "b93f9fbeb7d73c4c2419",
+    "url": "/BlogPlatzi-deploy/static/js/main.563acdae.chunk.js"
   },
   {
     "revision": "a4fe92cb3fdac672429e",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BlogPlatzi-deploy/precache-manifest.7cedc28c81273fc19d8b9e239a98809e.js"
+  "/BlogPlatzi-deploy/precache-manifest.32925ca115bbfdf12e813e194bab73ef.js"
 );
 
 self.addEventListener('message', (event) => {
